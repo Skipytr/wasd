@@ -1,0 +1,16 @@
+{
+	"name": "skipytr/wasd",
+	"type": "framework",
+	"description": "nathing",
+	"keywords": ["hbt"],
+	"homepage": "https://hburaktasyurek.com",
+	"license": "MIT",
+	"authors": [
+		{"name": "HBurak", "email": "admin@hburaktasyurek.com"}
+	],
+	"autoload": {
+		"psr-4": {
+			"wasd\\": "/src"
+		}
+	}
+}
